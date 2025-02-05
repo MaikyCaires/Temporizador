@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/att_01.hex'
+elf = 'build/att_01.elf'
